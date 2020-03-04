@@ -1,0 +1,17 @@
+#AUTORES 1DSI3 @FERNANDA E ANA CAROLINE
+# FEITO EM 03/03/2020
+#INSTITUIÇAO:ETEC 
+
+
+
+ X = 0
+ VALOR  = 2
+ WHILE (X <= 21 ):
+
+
+
+
+
+
+
+
